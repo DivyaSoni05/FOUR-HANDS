@@ -1,0 +1,88 @@
+<h1>Employment</h1>
+				<div class="features-des">
+					<div class="features-icon">
+						<i class="fa fa-check-square"></i>
+					</div>
+					<div class="feature-text">
+						<p></p>
+					</div>
+				</div>
+			<div class="features-img">
+				<img src="image/security.jpg">
+			</div>
+			<div class="text">
+				<ul class="Social">
+					<li><img src="facebook.png" alt="" /></li>
+					<li><img src="twitter.png" alt="" /></li>
+					<li><img src="instagram.png" alt="" /></li>
+				</ul>
+			</div>
+	</section>
+</body>
+</html>
+<br><br>
+					<label>Job Role :</label>
+					<input type="text" name="Job Role" id="Job" placeholder="Enter your Job"><br><br>
+					<label>Annual Income :</label>
+					<select>
+                                        <option>Income</option>
+						<option value="1000000 to 2000000">1000000 to 2000000</option>
+						<option value="2000000 to 4000000">2000000 to 4000000</option>
+						<option value="4000000 to 6000000">4000000 to 6000000</option>
+						<option value="Above 6 Lakhs">Above 6 Lakhs</option>
+					</select><br><br>
+					<input type="Submit" value="Submit" id="Submit">
+				</form>
+			</div>
+			<div class="vid">
+			<video src="video/demo.mov" type="video/mov" autoplay muted loop>
+				</video>
+			</div>
+		<div class="title-text">
+			<p>FEATURES</p>
+			<h1>Why Choose Us</h1>
+		</div>
+<div class="feature-box">
+			<div class="features">
+				<h1>Security</h1>
+				<div class="features-des">
+					<div class="features-icon">
+						<i class="fa fa-shield"></i>
+					</div>
+					<div class="feature-text">
+						<p></p>
+					</div>
+				</div>
+				<h1>Affordable</h1>
+				<div class="features-des">
+					<div class="features-icon">
+						<i class="fa fa-inr"></i>
+					</div>
+					<div class="feature-text">
+						<p></p>
+					</div>
+				</div>
+<h1>Employment</h1>
+				<div class="features-des">
+					<div class="features-icon">
+						<i class="fa fa-check-square"></i>
+					</div>
+					<div class="feature-text">
+						<p></p>
+					</div>
+				</div>
+			<div class="features-img">
+				<img src="image/security.jpg">
+			</div>
+			<div class="text">
+				<ul class="Social">
+					<li><img src="facebook.png" alt="" /></li>
+					<li><img src="twitter.png" alt="" /></li>
+					<li><img src="instagram.png" alt="" /></li>
+				</ul>
+			</div>
+	</section>
+</body>
+</html>
+
+
